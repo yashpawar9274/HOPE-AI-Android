@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.HopeAI" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#050816</item>
+        <item name="android:navigationBarColor">#050816</item>
+        <item name="android:windowSplashScreenBackground">#050816</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/hope_logo</item>
+    </style>
+</resources>
+

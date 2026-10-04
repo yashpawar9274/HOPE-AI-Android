@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184986743500",
+    "project_id": "hope-ai-aea7d",
+    "storage_bucket": "hope-ai-aea7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184986743500:android:2604f351388901d3744869",
+        "android_client_info": {
+          "package_name": "com.yashpawar.hopeai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkrw_o0kK56LKqZ54bSciKEF5kvcBAzCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

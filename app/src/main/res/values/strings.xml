@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HOPE AI</string>
+    <string name="notification_channel_name">HOPE reminders</string>
+    <string name="notification_channel_description">Tasks, reminders and important HOPE updates</string>
+</resources>
+

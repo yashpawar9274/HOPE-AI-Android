@@ -1,0 +1,5 @@
+sdk.dir=/path/to/Android/Sdk
+HOPE_SUPABASE_URL=
+HOPE_SUPABASE_ANON_KEY=
+HOPE_BACKEND_URL=
+
